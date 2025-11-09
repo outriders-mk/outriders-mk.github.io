@@ -1,0 +1,8 @@
+title: Outriders MK
+description: >-
+  Welcomto Outriders MK, a modding community for the Milton Keynes wargamers.
+baseurl: ""
+url: "https://outriders-mk.github.io/"
+theme: minima
+plugins:
+  - jekyll-feed
