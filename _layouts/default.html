@@ -8,10 +8,16 @@
 </head>
 <body>
   <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+    <div class="branding">
+    <img src="/assets/outriders.png" alt="The Outriders: MK logo">
+    <h1><a href="/">The Outriders: MK</a></h1>
+  </div>
+    <!-- <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1> -->
     <nav>
-      <a href="{{ '/' | relative_url }}">Home</a> |
+      <a href="{{ '/' | relative_url }}">Home</a> 
       <a href="{{ '/events/index.html' | relative_url }}">Events</a>
+      <a href="{{ '/about/index.html' | relative_url }}">About</a>
+      <a href="{{ '/links/index.html' | relative_url }}">Links</a>
     </nav>
   </header>
   <main>
