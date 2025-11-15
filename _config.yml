@@ -4,5 +4,6 @@ description: >-
 baseurl: ""
 url: "https://outriders-mk.github.io/"
 theme: minima
+destination: ./docs
 plugins:
   - jekyll-feed

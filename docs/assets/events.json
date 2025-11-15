@@ -1,0 +1,80 @@
+[
+    {
+        "name": "November 2025 40K GT",
+        "start_date": "2025-11-22",
+        "end_date": "2025-11-23",
+        "additional_info": [
+            {
+                "label": "Location",
+                "value": "Players Paradice,  19 St John St, Newport Pagnell MK16 8HE"
+            },
+            {
+                "label": "System",
+                "value": "Warhammer 40,000 10th Edition"
+            },
+            {
+                "label": "Format",
+                "value": "Grand Tournament"
+            },
+            {
+                "label": "Organisers",
+                "value": "Davide, Tebby, Davey"
+            }
+        ],
+        "links": [
+            {
+                "label": "Facebook Event",
+                "url": "https://fb.me/e/3tyvzjxRE"
+            },
+            {
+                "label": "Best Coast Pairings (BCP)",
+                "url": "https://www.bestcoastpairings.com/event/mGne98tAIbJv"
+            },
+            {
+                "label": "Event Rules Pack (PDF)",
+                "url": "/assets/eventpacks/2025_GT_Missions_Pack.pdf"
+            },
+            {
+                "label": "Event Missions Pack (PDF)",
+                "url": "/assets/eventpacks/Outriders_40k_GT_Pack_Nov_25.pdf"
+            }
+        ]
+    },
+    {
+        "name": "November 2025 AoS GT",
+        "start_date": "2025-11-29",
+        "end_date": "2025-11-30",
+        "additional_info": [
+            {
+                "label": "Location",
+                "value": "Players Paradice,  19 St John St, Newport Pagnell MK16 8HE"
+            },
+            {
+                "label": "System",
+                "value": "Age of Sigmar 4th Edition"
+            },
+            {
+                "label": "Format",
+                "value": "Grand Tournament"
+            },
+            {
+                "label": "Organisers",
+                "value": "James L"
+            }
+        ],
+        "links": [
+            {
+                "label": "Facebook Event",
+                "url": "https://fb.me/e/1PCPojD9CZ"
+            },
+            {
+                "label": "Champions Hub",
+                "url": "https://www.championshub.app/aos/events/d4c257f3-9dde-4a97-9eb0-341b58b63139?fbclid=IwY2xjawOFgpBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyCGNhbGxzaXRlAjMwAAEeRFGM4PKMcwfe-PQI2XPXxJMgBJyBPoL4-Fu_29TTMeEkmERwTvgCqI2uGtA_aem_QkRuCNJRRgM_8UndH7j7ig"
+            },
+            {
+                "label": "Event Rules Pack (PDF)",
+                "url": "https://drive.google.com/file/d/1agzh7s5TBl9pWQcYDzfkHx6Pku81la-R/view?fbclid=IwY2xjawOFgrBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyCGNhbGxzaXRlAjMwAAEe6tN49aW24QirITiEMYpJBqNg1uFoNyS_xetPsqDlFFDFY4sl2ROoPjGIEqM_aem__VLpzYr-S-dnKzsLuKnOBQ"
+            }
+        ]
+    }
+]
