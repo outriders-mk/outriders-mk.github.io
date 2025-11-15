@@ -3,7 +3,7 @@ layout: default
 title: Events
 ---
 
-# These are out upcoming events
+# These are our upcoming events
 
 {% include events.html %}
 
