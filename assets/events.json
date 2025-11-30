@@ -31,12 +31,49 @@
                 "url": "https://www.bestcoastpairings.com/event/mGne98tAIbJv"
             },
             {
-                "label": "Event Rules Pack (PDF)",
+                "label": "Event Missions Pack (PDF)",
                 "url": "/assets/eventpacks/2025_GT_Missions_Pack.pdf"
             },
             {
-                "label": "Event Missions Pack (PDF)",
+                "label": "Event Rules Pack (PDF)",
                 "url": "/assets/eventpacks/Outriders_40k_GT_Pack_Nov_25.pdf"
+            }
+        ]
+    },
+    {
+        "name": "Outriders December 40k Tournament - NEW UKTC MAPS",
+        "start_date": "2025-12-13",
+        
+        "additional_info": [
+            {
+                "label": "Location",
+                "value": "Players Paradice,  19 St John St, Newport Pagnell MK16 8HE"
+            },
+            {
+                "label": "System",
+                "value": "Warhammer 40,000 10th Edition"
+            },
+            {
+                "label": "Format",
+                "value": "RTT"
+            },
+            {
+                "label": "Organisers",
+                "value": "Davey"
+            }
+        ],
+        "links": [
+            {
+                "label": "Facebook Event",
+                "url": "https://fb.me/e/5bUoQjVMC"
+            },
+            {
+                "label": "Best Coast Pairings (BCP)",
+                "url": "https://www.bestcoastpairings.com/event/OCRXQf1TDp8E"
+            },
+            {
+                "label": "Event Rules Pack (PDF)",
+                "url": "https://docs.google.com/document/d/1DJgYz0etk099gBm38lq8Hb_HpGBSigwsYg1Y4OZJrxk/edit?usp=sharing"
             }
         ]
     },
