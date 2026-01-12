@@ -1,4 +1,6 @@
 [
+    
+    
     {
         "name": "November 2025 40K GT",
         "start_date": "2025-11-22",
@@ -70,6 +72,43 @@
             {
                 "label": "Best Coast Pairings (BCP)",
                 "url": "https://www.bestcoastpairings.com/event/OCRXQf1TDp8E"
+            },
+            {
+                "label": "Event Rules Pack (PDF)",
+                "url": "https://docs.google.com/document/d/1DJgYz0etk099gBm38lq8Hb_HpGBSigwsYg1Y4OZJrxk/edit?usp=sharing"
+            }
+        ]
+    },
+    {
+        "name": "Outriders Januart 40k Tournament",
+        "start_date": "2026-01-18",
+        
+        "additional_info": [
+            {
+                "label": "Location",
+                "value": "Players Paradice,  19 St John St, Newport Pagnell MK16 8HE"
+            },
+            {
+                "label": "System",
+                "value": "Warhammer 40,000 10th Edition"
+            },
+            {
+                "label": "Format",
+                "value": "RTT"
+            },
+            {
+                "label": "Organisers",
+                "value": "Ben P"
+            }
+        ],
+        "links": [
+            {
+                "label": "Facebook Event",
+                "url": "https://fb.me/e/5bUoQjVMC"
+            },
+            {
+                "label": "Best Coast Pairings (BCP)",
+                "url": "https://www.bestcoastpairings.com/event/IqrYpkf7peiB"
             },
             {
                 "label": "Event Rules Pack (PDF)",
