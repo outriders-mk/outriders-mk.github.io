@@ -5,6 +5,9 @@ title: About
 
 # About Us
 
+## Constitution
+Our counstitution can be found here ([pdf](/assets/Constitution.pdf) or [one drive](https://1drv.ms/w/c/c67975777db4c7c1/IQAT2Pj1XjRqTag7RBKYVonPARUku6IFbec9qVeiqNWtBCg?e=Vr6tN7))
+
 ## What we play
 We play a number of games, including, but not limited to: 
 - Warhammer 40K
