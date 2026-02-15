@@ -10,7 +10,7 @@ function fetch_events(upcoming) {
         .then(data => {
             const eventsContainer = document.getElementById('upcoming_events');
             // sort by start_date (fallback to end_date) ascending
-            data.sort((a, b) => {
+            data.sort((b, a) => {
                 const da = new Date(a.start_date || a.end_date);
                 const db = new Date(b.start_date || b.end_date);
                 const na = isNaN(da);
